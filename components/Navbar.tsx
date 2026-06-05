@@ -21,7 +21,7 @@ export default function Navbar() {
               priority
             />
             <span className="text-2xl font-black tracking-tighter text-white uppercase">
-              Trumine<span className="text-corporate-blue">Digital</span>
+              Trumine<span className="text-corporate-blue"> Digital</span> <span className="text-2xl font-black tracking-tighter text-white uppercase"> Solutions</span>
             </span>
           </Link>
 
