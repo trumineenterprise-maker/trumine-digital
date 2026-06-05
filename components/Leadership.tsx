@@ -104,7 +104,7 @@ export default function Leadership() {
 
               <div className="space-y-6 text-silver-400 text-lg md:text-xl font-light leading-relaxed">
                 <p>
-                  &quot;I founded the backend accounting division of Trumine Digital Solutions to solve a specific problem for U.S. CPA firms: the severe bottleneck of monthly reconciliations and QBO cleanup.
+                  &quot;I founded the backend accounting division of Trumine Digital Solutions to solve a specific problem for U.S. CPA firms: the severe bottleneck of monthly reconciliations and Xero cleanup.
                 </p>
                 <p>
                   Unlike large outsourcing call-centers where your files are passed between rotating junior staff, I serve as your direct Operations Partner. I personally oversee our workflows, ensure strict adherence to U.S. GAAP standards, and maintain the highest levels of data encryption.

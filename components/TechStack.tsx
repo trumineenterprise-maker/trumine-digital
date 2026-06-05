@@ -14,9 +14,9 @@ export default function TechStack() {
     visible: { opacity: 1, transition: { staggerChildren: 0.15 } }
   };
 
-  // The typical software stack for a US CPA white-label partner
+  // Swapped QuickBooks Online with Xero natively
   const software = [
-    { name: "QuickBooks Online", category: "Core Ledger & Reconciliation", icon: Database },
+    { name: "Xero", category: "Core Ledger & Reconciliation", icon: Database },
     { name: "Bill.com", category: "AP / AR Processing", icon: CircleDollarSign },
     { name: "Gusto & ADP", category: "Payroll Integration", icon: Calculator },
     { name: "Dext / Hubdoc", category: "Source Document Capture", icon: Receipt },

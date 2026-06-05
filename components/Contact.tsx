@@ -130,7 +130,7 @@ export default function Contact() {
                                     </div>
 
                                     <div>
-                                        <label className="block text-xs font-bold tracking-widest text-silver-500 uppercase mb-3">Current QBO Volume</label>
+                                        <label className="block text-xs font-bold tracking-widest text-silver-500 uppercase mb-3">Current Xero Volume</label>
                                         <select name="volume" required onChange={handleChange} value={formData.volume} className="w-full bg-black border border-white/10 p-4 text-white focus:outline-none focus:border-corporate-glow transition-colors appearance-none cursor-pointer">
                                             <option value="">Select Volume Tier...</option>
                                             <option value="10 - 50 Clients">10 - 50 Clients</option>

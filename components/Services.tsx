@@ -32,7 +32,7 @@ export default function Services() {
           className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12"
         >
           {[
-            { title: "QBO Remediation", icon: FileSpreadsheet, desc: "Systematic cleanup of historical data and chart of accounts." },
+            { title: "Xero Remediation", icon: FileSpreadsheet, desc: "Systematic cleanup of historical data, conversion balances, and chart of accounts." },
             { title: "Ledger Management", icon: Calculator, desc: "High-volume reconciliations maintained with zero-defect tolerance." },
             { title: "White-Label Payroll", icon: Briefcase, desc: "Backend processing and compliance tracking prepared for final sign-off." },
             { title: "Financial Reporting", icon: BarChart3, desc: "Drafting of balance sheets, P&L, and custom management reports." }

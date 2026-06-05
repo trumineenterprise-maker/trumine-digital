@@ -26,8 +26,8 @@ export default function Process() {
 
         <div className="relative border-l border-white/10 ml-4 md:ml-10 space-y-24 pb-12">
           {[
-            { step: "01", title: "Secure Onboarding & Data Access", desc: "We establish encrypted communication channels and secure restricted access to your QBO environments." },
-            { step: "02", title: "Standardized Processing", desc: "Our team executes categorizations, reconciliations, and payroll prep strictly according to your firm's SOPs." },
+            { step: "01", title: "Secure Onboarding & Data Access", desc: "We establish encrypted communication channels and secure restricted access to your Xero environments." },
+            { step: "02", title: "Standardized Processing", desc: "Our team executes categorizations, bank feed reconciliations, and payroll prep strictly according to your firm's SOPs." },
             { step: "03", title: "CPA Review & Final Approval", desc: "You receive clean, audit-ready ledgers and drafted reports to review, approve, and present to your clients." }
           ].map((item, idx) => (
             <motion.div 
