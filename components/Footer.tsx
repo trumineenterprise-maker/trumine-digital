@@ -20,9 +20,15 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-bold mb-6 tracking-widest text-xs uppercase">Direct Contact</h4>
             <ul className="space-y-4 text-silver-400 text-sm font-light">
-              <li className="hover:text-white transition-colors cursor-pointer">partnerships@truminedigital.com</li>
-              <li className="hover:text-white transition-colors cursor-pointer">+1 (800) 555-0199</li>
-              <li className="text-corporate-blue font-medium mt-4">Secure B2B Operations</li>
+              <li>
+                <a 
+                  href="mailto:partnerships@truminedigital.com" 
+                  className="hover:text-white transition-colors block break-all"
+                >
+                  partnerships@truminedigital.com
+                </a>
+              </li>
+              <li className="text-corporate-blue font-medium pt-2">Secure B2B Operations</li>
             </ul>
           </div>
           
